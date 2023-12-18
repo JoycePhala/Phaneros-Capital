@@ -1,0 +1,70 @@
+.claims-page {
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    text-align: center;
+    color:#02436D;
+    font-size: 40px;
+  }
+  .image {
+    width: 100px; 
+    height: auto;
+  }
+  .image-button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .image-container {
+    margin-left: 300px; 
+    justify-content: space-between;
+    display: flex;
+    margin-right: 300px;
+    margin-top: 30px;
+  }
+    
+  .image-container img {
+    width: 150px; 
+    height: 150px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  
+  .button-container {
+    margin-top: 20px;
+    align-items: center;
+  }
+  
+  .button-container button {
+    background-color: #02436D;
+    color: white;
+    margin-left: 50px;
+    padding: 10px 80px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  
+  }
+  
+  .btn {
+    background-color: #02436D;
+    color: white;
+  }
+  
+  .main-content {
+    text-align: center;
+  }
+  .main-content h1 {
+    text-align: center;
+    color: #02436D;
+  }
+  .main-content p {
+    text-align: center;
+    color: #02436D;
+    font-size: 15px;
+  }
